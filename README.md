@@ -1,1 +1,1 @@
-![alt text](https://github.com/mahdiahbabi/Nahal-it/blob/main/collage%20(1).jpg)
+![alt text](https://raw.githubusercontent.com/mahdiahbabi/Nahal-it/main/collage.jpg)
